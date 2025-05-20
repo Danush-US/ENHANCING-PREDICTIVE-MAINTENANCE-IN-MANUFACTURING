@@ -67,15 +67,8 @@ To develop and validate a scalable predictive maintenance model integrating real
 
 ## Model Performance
 
-| Model                | Precision | Recall | F1 Score | ROC-AUC |
-|---------------------|-----------|--------|----------|---------|
-| Logistic Regression | 0.74      | 0.76   | 0.75     | 0.82    |
-| Decision Tree       | 0.72      | 0.74   | 0.73     | 0.80    |
-| K-Nearest Neighbors | 0.68      | 0.69   | 0.68     | 0.77    |
-| SVM                 | 0.75      | 0.76   | 0.75     | 0.83    |
-| **Random Forest**   | **0.87**  | **0.88** | **0.87** | **0.92**
 
-**Conclusion**: Random Forest outperformed other models for every measure and was selected for deployment.
+Random Forest outperformed other models for every measure and was selected for deployment.
 
 ---
 
