@@ -127,3 +127,30 @@ Developed a usable dashboard prototype that can be deployed into factory systems
 
 Stressed the scope for scalable PdM models in Industry 4.0
 
+## Dashboard Screenshots
+
+### Real-Time Failure Probability Display
+![Failure Probability](Screenshot%202025-05-20%20124224.png)
+
+### Sensor Data Trends
+![Sensor Trends](Screenshot%202025-05-20%20124242.png)
+
+### Equipment Risk Table
+![Risk Table](Screenshot%202025-05-20%20124326.png)
+
+### Feature Importance Visualization
+![Feature Importance](Screenshot%202025-05-20%20124501.png)
+
+### SHAP Interpretation Output
+![SHAP Summary](Screenshot%202025-05-20%20124526.png)
+
+### Confusion Matrix Output
+![Confusion Matrix](Screenshot%202025-05-20%20124609.png)
+
+### Historical Failure Overview
+![Historical Failures](Screenshot%202025-05-20%20124631%20-%20Copy.png)
+
+### Live Sensor Feed Snapshot
+![Live Feed](Screenshot%202025-05-20%20124702%20-%20Copy.png)
+
+
