@@ -146,4 +146,8 @@ Stressed the scope for scalable PdM models in Industry 4.0
 ### Live Sensor Feed Snapshot
 ![Live Feed](Screenshot%202025-05-20%20124702%20-%20Copy.png)
 
-
+### Revision History
+# Project starting Date
+![](https://github.com/Danush-US/Enhancing-predictive-maintainance-in-manufacturing-using-ML/blob/main/Screenshot%202025-05-21%20144632.png)
+# Project finishing date
+![](https://github.com/Danush-US/Enhancing-predictive-maintainance-in-manufacturing-using-ML/blob/main/Screenshot%202025-05-21%20144619.png)
